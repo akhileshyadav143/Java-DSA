@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "dsalinked list.java/stack.java",
+        "dsalinked list.java",
+        "queue.java"
+    ]
+}
